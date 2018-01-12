@@ -19,3 +19,7 @@ Python code: https://github.com/larsgimse/twitterOmeter/blob/master/python/twitt
 
 
 # Use LED on micro:bit
+
+<img src="https://github.com/larsgimse/twitterOmeter/blob/master/led_on_microbit.png" width=500>
+micro:bit code: https://makecode.microbit.org/_0FFbLfcLmddA
+
