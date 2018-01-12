@@ -10,3 +10,5 @@ https://makecode.microbit.org/_cupdFyCqf0sM
 
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter_microbit_0_1.png" width=500>
 
+Python code: https://github.com/larsgimse/twitterOmeter/blob/master/python/twitterOmeter.py
+
