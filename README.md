@@ -6,7 +6,8 @@ Show twitter activity on Neopixel using RaspberryPi / other computer running Pyt
 https://www.instagram.com/p/Bd2Svvfg1Yg/
 
 ..
-<img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter_bb.png" width=300>
+
+<img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter_bb.png" width=500>
 
 micro:bit code 0.1 
 https://makecode.microbit.org/_cupdFyCqf0sM
