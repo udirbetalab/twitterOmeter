@@ -1,4 +1,5 @@
 # twitterOmeter
+Use NeoPixel stripe or LED on micro:bit
 
 Show twitter activity on Neopixel using RaspberryPi / other computer running Python script and Neopixel on micro:bit connected with USB. Counting pixel when #yourChoice (#trump in Python code) are tweetet on Internet.
 
@@ -17,3 +18,4 @@ https://makecode.microbit.org/_cupdFyCqf0sM
 Python code: https://github.com/larsgimse/twitterOmeter/blob/master/python/twitterOmeter.py
 
 
+# Use LED on micro:bit
