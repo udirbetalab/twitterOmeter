@@ -9,7 +9,10 @@ from serial import Serial
 import httplib
 from httplib import IncompleteRead
 
-from auth_romforlek import (
+# you need a separate python code like auth_xxxx with your credentials from Twitter
+# create an application on apps.twitter.com and generate your oAuth keys
+
+from auth_xxxx import (
     consumer_key,
     consumer_secret,
     access_token,
