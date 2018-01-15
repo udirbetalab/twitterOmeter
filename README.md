@@ -20,7 +20,8 @@ micro:bit code 0.1
 https://makecode.microbit.org/_cupdFyCqf0sM
 
 micro:bit code 0.2 - neopixelring
-https://makecode.microbit.org/_DJbRFvUv7gTV
+https://makecode.microbit.org/_AAqVxyLLbEsK (colour)
+https://makecode.microbit.org/_DJbRFvUv7gTV (bad code?)
 
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter_microbit_0_1.png" width=500>
 
