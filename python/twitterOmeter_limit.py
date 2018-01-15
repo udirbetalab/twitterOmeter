@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# limit from https://geduldig.github.io/tutorials/twitter-counter/
 
 import time
 from time import sleep
