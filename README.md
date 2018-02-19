@@ -4,7 +4,7 @@ Show twitter activity on Neopixel/LED on micro:bit using computer running Python
 You need:
 Computer: RaspberryPi / Windows / MAC / Linux<br>
 micro:bit - www.microbit.org<br>
-NeoPixel https://www.adafruit.com/category/168 or LED on microbit (a href="https://makecode.microbit.org/_0FFbLfcLmddA">code</a>)<br>
+NeoPixel https://www.adafruit.com/category/168 or LED on microbit (<a href="https://makecode.microbit.org/_0FFbLfcLmddA">code</a>)<br>
 Python 2.7.xx - https://www.python.org/downloads/<br>
 TwitterAPI - https://github.com/geduldig/TwitterAPI<br>
 Your own Twitter Apps with Keys and Access Tokens - https://apps.twitter.com/
