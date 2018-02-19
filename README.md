@@ -7,7 +7,7 @@ micro:bit - www.microbit.org<br>
 NeoPixel https://www.adafruit.com/category/168 or LED on microbit<br>
 Python 2.7.xx - https://www.python.org/downloads/<br>
 TwitterAPI - https://github.com/geduldig/TwitterAPI<br>
-
+Your own Twitter Apps with Keys and Access Tokens - https://apps.twitter.com/
 
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter.png" width=500>
 https://www.instagram.com/p/Bd2Svvfg1Yg/
