@@ -25,7 +25,7 @@ https://makecode.microbit.org/_DJbRFvUv7gTV (bad code?)
 
 <img src="https://github.com/larsgimse/twitterOmeter/blob/master/twitterOmeter_microbit_0_1.png" width=500>
 
-Python code: https://github.com/larsgimse/twitterOmeter/blob/master/python/twitterOmeter.py
+Python code: https://github.com/udirbetalab/twitterOmeter/blob/master/python/twitterOmeter.py
 
 
 # Use LED on micro:bit
